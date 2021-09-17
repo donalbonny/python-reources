@@ -1,6 +1,6 @@
 # python-resources
 
-This page includes the python resouces that I used during my learning 
+This page includes the python resources that I used during my learning 
 
 [Python For Data Science](https://hackr.io/blog/python-for-data-science)
 
