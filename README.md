@@ -6,4 +6,4 @@ This page includes the python resouces that I used during my learning
 
 [Best Python Cources](https://hackr.io/blog/best-python-courses)
 
-[Best Python Books beginner and advanced] (https://hackr.io/blog/best-python-books-for-beginners-and-advanced-programmers)
+[Best Python Books beginner and advanced](https://hackr.io/blog/best-python-books-for-beginners-and-advanced-programmers)
