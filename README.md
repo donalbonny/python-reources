@@ -12,3 +12,5 @@ This page includes the python resources that I used during my learning
 
 My favorite book is [Bioinformatics with Python Cookbook](https://github.com/PacktPublishing/Bioinformatics-with-Python-Cookbook-Second-Edition)
 
+Not Python book but this is great if you are interested in Machine Learning or Statistics Learning: [An Introduction to Statistical Learning](https://www.statlearning.com/)
+
