@@ -14,3 +14,5 @@ My favorite book is [Bioinformatics with Python Cookbook](https://github.com/Pac
 
 Not Python book but this is great if you are interested in Machine Learning or Statistics Learning: [An Introduction to Statistical Learning](https://www.statlearning.com/)
 
+[Data Analysis with Python for Beginner](https://www.youtube.com/watch?v=r-uOLxNrNk8) : Youtube video fromfreeCodeCamp ( Numpy, Pandas, Matplotlib, Seaborn)
+
